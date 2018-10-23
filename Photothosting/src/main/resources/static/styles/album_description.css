@@ -1,0 +1,17 @@
+#album_description {
+	text-align: center;
+}
+
+.fa-check-circle-o {
+	display: none;
+	position: relative;
+	left: 10px;
+	color: #0772b1;
+}
+
+.fa-check-circle-o:hover {
+	color: green;
+	transition: all1.5s .5s;
+	transform: rotate(-4deg) scale(1.2);
+	transform-origin: 50% 50%;
+}

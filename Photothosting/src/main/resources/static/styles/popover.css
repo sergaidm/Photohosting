@@ -1,0 +1,11 @@
+.popover {
+	background-color: #29d629;
+	text-align: center;
+	width: 210px;
+}
+
+.popover-body {
+	font-size: 18px;
+	font-family: 'Lobster', cursive;
+	font-weight: bolder;
+}

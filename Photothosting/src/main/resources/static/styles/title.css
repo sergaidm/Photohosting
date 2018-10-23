@@ -1,0 +1,13 @@
+.title {
+	font-family: Verdana;
+	font-size: 3em;
+	font-weight: bold;
+	color: #131207;
+	letter-spacing: -0.11em;
+	text-shadow: -0.05em 0px 0.07em #000000;
+}
+
+.title div {
+	display: inline-block;
+	color: #C0C0C0;
+}

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Сергей
+Build-Jdk: 10.0.2
+Implementation-Title: Photohosting
+Implementation-Version: 0.6
+Implementation-Vendor-Id: ru.yandex.sergaidm
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Photohosting
+Created-By: Maven Integration for Eclipse
+

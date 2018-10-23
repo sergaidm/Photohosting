@@ -1,0 +1,288 @@
+input[type="text"]::-webkit-input-placeholder {
+	color: #000000;
+}
+
+input[type="text"]::-moz-placeholder {
+	color: #000000;
+}
+
+input[type="text"]:-moz-placeholder {
+	color: #000000;
+}
+
+input[type="text"]:-ms-input-placeholder {
+	color: #000000;
+}
+
+input[type="text"]::-webkit-input-placeholder {
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+
+input[type="text"]::-moz-placeholder {
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+
+input[type="text"]:-moz-placeholder {
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+
+input[type="text"]:-ms-input-placeholder {
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+
+input[type="text"]:focus::-webkit-input-placeholder {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}
+
+input[type="text"]:focus::-moz-placeholder {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}
+
+input[type="text"]:focus:-moz-placeholder {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}
+
+input[type="text"]:focus:-ms-input-placeholder {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}
+
+input[type="password"]::-webkit-input-placeholder {
+	color: #000000;
+}
+
+input[type="password"]::-moz-placeholder {
+	color: #000000;
+}
+
+input[type="password"]:-moz-placeholder {
+	color: #000000;
+}
+
+input[type="password"]:-ms-input-placeholder {
+	color: #000000;
+}
+
+input[type="password"]::-webkit-input-placeholder {
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+
+input[type="password"]::-moz-placeholder {
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+
+input[type="password"]:-moz-placeholder {
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+
+input[type="password"]:-ms-input-placeholder {
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+
+input[type="password"]:focus::-webkit-input-placeholder {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}
+
+input[type="password"]:focus::-moz-placeholder {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}
+
+input[type="password"]:focus:-moz-placeholder {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}
+
+input[type="password"]:focus:-ms-input-placeholder {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}
+
+input[type="email"]::-webkit-input-placeholder {
+	color: #000000;
+}
+
+input[type="email"]::-moz-placeholder {
+	color: #000000;
+}
+
+input[type="email"]:-moz-placeholder {
+	color: #000000;
+}
+
+input[type="email"]:-ms-input-placeholder {
+	color: #000000;
+}
+
+input[type="email"]::-webkit-input-placeholder {
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+
+input[type="email"]::-moz-placeholder {
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+
+input[type="email"]:-moz-placeholder {
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+
+input[type="email"]:-ms-input-placeholder {
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+
+input[type="email"]:focus::-webkit-input-placeholder {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}
+
+input[type="email"]:focus::-moz-placeholder {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}
+
+input[type="email"]:focus:-moz-placeholder {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}
+
+input[type="email"]:focus:-ms-input-placeholder {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}
+
+textarea[class="form-control"] {
+	color: #000000;
+}
+
+textarea[id="album_description"]::placeholder {
+     text-align: center;
+     color: #000000;
+}
+
+textarea[class="form-control"]::-webkit-input-placeholder {
+	color: #000000;
+}
+
+textarea[class="form-control"]::-moz-placeholder {
+	color: #000000;
+}
+
+textarea[class="form-control"]:-moz-placeholder {
+	color: #000000;
+}
+
+textarea[class="form-control"]:-ms-input-placeholder {
+	color: #000000;
+}
+
+textarea[class="form-control"]::-webkit-input-placeholder {
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+
+textarea[class="form-control"]::-moz-placeholder {
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+
+textarea[class="form-control"]:-moz-placeholder {
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+
+textarea[class="form-control"]:-ms-input-placeholder {
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+
+textarea[class="form-control"]:focus::-webkit-input-placeholder {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}
+
+textarea[class="form-control"]:focus::-moz-placeholder {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}
+
+textarea[class="form-control"]:focus:-moz-placeholder {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}
+
+textarea[class="form-control"]:focus:-ms-input-placeholder {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}
+
+textarea[id="album_description"]::-webkit-input-placeholder {
+	color: #000000;
+}
+
+textarea[id="album_description"]::-moz-placeholder {
+	color: #000000;
+}
+
+textarea[id="album_description"]:-moz-placeholder {
+	color: #000000;
+}
+
+textarea[id="album_description"]:-ms-input-placeholder {
+	color: #000000;
+}
+
+textarea[id="album_description"]::-webkit-input-placeholder {
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+
+textarea[id="album_description"]::-moz-placeholder {
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+
+textarea[id="album_description"]:-moz-placeholder {
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+
+textarea[id="album_description"]:-ms-input-placeholder {
+	opacity: 1;
+	transition: opacity 0.5s ease;
+}
+
+textarea[id="album_description"]:focus::-webkit-input-placeholder {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}
+
+textarea[id="album_description"]:focus::-moz-placeholder {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}
+
+textarea[id="album_description"]:focus:-moz-placeholder {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}
+
+textarea[id="album_description"]:focus:-ms-input-placeholder {
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}

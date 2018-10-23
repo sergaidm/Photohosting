@@ -1,0 +1,45 @@
+.lead_title {
+	font-family: "Lobster", cursive;
+	font-size: 40px;
+	font-weight: bolder;
+}
+
+.lead {
+	font-family: "Lobster", cursive;
+	font-size: 32px;
+	font-weight: bolder;
+}
+
+.error {
+	font-family: "Lobster", cursive;
+	font-size: 28px;
+	font-weight: bolder;
+	color: red;
+}
+
+.text {
+	font-family: 'Lobster', cursive;
+	font-size: 28px;
+	font-weight: bolder;
+}
+
+.failed_validation {
+	font-family: "Lobster", cursive;
+	font-size: 20px;
+	font-weight: bolder;
+	color: red;
+}
+
+.success_validation {
+	font-family: "Lobster", cursive;
+	font-size: 20px;
+	font-weight: bolder;
+	color: green;
+}
+
+.creation_date {
+	font-family: Impact;
+	color: #303030;
+	font-style: italic;
+	position: absolute;
+}
